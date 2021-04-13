@@ -5,6 +5,9 @@ export default {
   ssr: false,
 
   target: 'static',
+  // router: {
+  //   base: '/nuxt/'
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
